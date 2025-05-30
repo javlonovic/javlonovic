@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/84b05441-50ae-447b-884f-58be23a570b0)<h1 align="left">Let me introduce my self first. My name is Abdulbosit Ziyayev Javlonovich. I have borned in 22.10.2010 in Tashkent , Uzbekistan. In the current time I am studying at 8th grade in 300th school which is located in Sergeli. I keen on learning new languages , playing online games and so on.</h1>
+<h1 align="left">Let me introduce my self first. My name is Abdulbosit Ziyayev Javlonovich. I have borned in 22.10.2010 in Tashkent , Uzbekistan. In the current time I am studying at 8th grade in 300th school which is located in Sergeli. I keen on learning new languages , playing online games and so on.</h1>
 
 ###
 
